@@ -8,6 +8,7 @@
 // Need to check the analog inputs match physical wiring and need to get MQTT messages into emoncms.
 // This might need mqttwarn, although the emoncms readme claims to subscribe to mqtt inputs, I havent been able to get it to work.
 
+// I am not a code expert so there are probably many improvements to be made to my code. That said, it works.
 
 /*
 
